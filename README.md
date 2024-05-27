@@ -1,4 +1,4 @@
-# JogoDaVelha
+# Tic-Tac-Toe
 
 Este é um simples jogo da velha (tic-tac-toe) implementado em Python. O jogo é jogado entre um usuário e o computador. O usuário joga com o símbolo 'O' e o computador joga com o símbolo 'X'.
 
